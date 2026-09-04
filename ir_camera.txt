@@ -3,3 +3,5 @@
 - filter wheel
 - camera optics
 - detector
+
+DO NOT POINT AT THE SUN!!!

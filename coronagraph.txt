@@ -3,3 +3,5 @@
 - Lyot stop
 - detector optics
 - detector
+
+Fragile - do not break
