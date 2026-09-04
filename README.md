@@ -1,1 +1,1 @@
-# github_training_observatory_project
+git_observatory
